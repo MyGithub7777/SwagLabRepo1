@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-02T10:03:49 IST" name="Default suite" finished-at="2023-10-02T10:03:56 IST" duration-ms="6785">
+    <groups>
+    </groups>
+    <test started-at="2023-10-02T10:03:49 IST" name="Default test" finished-at="2023-10-02T10:03:56 IST" duration-ms="6785">
+      <class name="com.sauceDemo.testLayer.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauceDemo.testLayer.LoginTest@28eaa59a]" started-at="2023-10-02T10:03:49 IST" name="setUp" finished-at="2023-10-02T10:03:55 IST" duration-ms="5768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logintestwithValidCred()[pri:0, instance:com.sauceDemo.testLayer.LoginTest@28eaa59a]" started-at="2023-10-02T10:03:55 IST" name="logintestwithValidCred" finished-at="2023-10-02T10:03:55 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintestwithValidCred -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.testLayer.LoginTest@28eaa59a]" started-at="2023-10-02T10:03:55 IST" name="tearDown" finished-at="2023-10-02T10:03:56 IST" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceDemo.testLayer.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
